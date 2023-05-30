@@ -1,4 +1,3 @@
-import time
 from selenium.webdriver.common.by import By
 
 def test_button_availability(browser):
